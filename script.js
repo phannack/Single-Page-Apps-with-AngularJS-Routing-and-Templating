@@ -35,5 +35,5 @@ scotchApp.controller('aboutController', function($scope) {
 });
 
 scotchApp.controller('contactController', function($scope) {
-  $scope.message = 'Contact us! JK. This is just a demo.';
+  $scope.message = 'Contact us!. This is just a demo.';
 });
